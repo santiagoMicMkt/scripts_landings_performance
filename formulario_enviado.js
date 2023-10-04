@@ -5,7 +5,7 @@ function handleFormSubmit() {
     window.dataLayer.push({
       event: 'formulario_enviado',
       category: 'B2C',
-      action: 'submit form',
+      action: 'button click',
       label: 'HN',
       bu: 'POSTPAGO',
       oferta: 'PLAN MÓVIL 10 GB',
